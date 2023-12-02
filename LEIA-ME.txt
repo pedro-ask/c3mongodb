@@ -1,0 +1,7 @@
+
+------------------------------<< COMO EXECUTAR O APLICATIVO ? >>------------------------------
+ 
+Todas as informações sobre o projeto se encontram no README.md na pasta mongo_db_project,
+incluíndo o tutorial completo de como executar o programa em sua máquina.
+
+------------------------------------------------------------------------------------------------
